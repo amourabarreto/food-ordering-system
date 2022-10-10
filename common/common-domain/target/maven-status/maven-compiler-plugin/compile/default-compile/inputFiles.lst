@@ -1,0 +1,5 @@
+C:\Dev\java\IdeaProjects\microservices\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\entity\BaseEntity.java
+C:\Dev\java\IdeaProjects\microservices\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\entity\AggregateRoot.java
+C:\Dev\java\IdeaProjects\microservices\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\BaseId.java
+C:\Dev\java\IdeaProjects\microservices\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\OrderId.java
+C:\Dev\java\IdeaProjects\microservices\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\Money.java
