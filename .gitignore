@@ -6,3 +6,4 @@
 /order-service/order-domain/order-domain-core/target/
 /order-service/order-messaging/target/
 /target/
+/.idea/sonarlint/
