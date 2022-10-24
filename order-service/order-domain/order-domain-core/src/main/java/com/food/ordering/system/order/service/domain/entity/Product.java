@@ -3,6 +3,8 @@ package com.food.ordering.system.order.service.domain.entity;
 import com.food.ordering.system.domain.entity.BaseEntity;
 import com.food.ordering.system.domain.valueobject.ProductId;
 
+import java.util.UUID;
+
 public class Product extends BaseEntity<ProductId> {
     private String name;
     private String price;
@@ -12,6 +14,11 @@ public class Product extends BaseEntity<ProductId> {
         this.name = name;
         this.price = price;
     }
+
+    public Product(ProductId productId) {
+        super.setId(productId);
+    }
+
 
     public String getName() {
         return name;
